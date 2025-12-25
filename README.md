@@ -1,0 +1,1 @@
+This script demonstrates an HTTP file replacement attack using NetfilterQueue and Scapy. It intercepts executable download requests, tracks TCP acknowledgments, and modifies the server response to redirect the victim to a malicious payload. This project helped me understand packet manipulation, TCP sequencing, and MITM attack techniques.
